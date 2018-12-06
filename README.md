@@ -1,2 +1,4 @@
 # seattle-collide-clusters
-Marker Clusters Map of Collisions
+Marker clusters map of collisions in seattle
+
+Data was from Seattle Department of Transportation (SDOT) on the [Seattle GIS Open Data Portal](https://data-seattlecitygis.opendata.arcgis.com/datasets/collisions)
